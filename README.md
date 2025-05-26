@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 
 - I am a student working on building a styled website with interactive elements.
 - I am currently learning HTML/CSS, and Javascript.
-- I can be reached at [my email address.](mailto:xcqsns1or@mozmail.com)
+- I can be reached at my email address, [northjoshua@icloud.com](northjoshua@icloud.com)
